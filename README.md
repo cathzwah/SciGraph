@@ -6,7 +6,7 @@ SciGraph
 
 Represent ontologies and ontology-encoded knowledge in a Neo4j graph.
 
-Test modif
+Test modif 2
 
 Motivation
 ----------
